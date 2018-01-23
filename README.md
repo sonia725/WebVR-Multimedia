@@ -3,7 +3,7 @@
 This example uses the [A-Frame Web VR framework](https://aframe.io/). 
 
 You can see this web page served here:
-[https://haddersbadders.github.io/WebVR-Demo/](https://haddersbadders.github.io/WebVR-Demo/)
+[https://sheffieldjournalism.github.io/WebVR-Demo/](https://sheffieldjournalism.github.io/WebVR-Demo/)
 
 To use this demo in your own page, you can do this in two ways:
 
